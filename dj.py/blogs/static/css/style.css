@@ -1,0 +1,63 @@
+.index{
+   margin-top: 25%;
+   margin-bottom: 25%;
+   
+}
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+.note {
+   font-family: "DM Serif Text", serif;
+   font-weight: 400;
+   font-style: normal;
+ }
+ 
+ .note {
+   font-family: "DM Serif Text", serif;
+   font-weight: 400;
+   font-style: italic;
+ }
+ #more {display: none;}
+.row{
+  margin: 35px;
+}
+#mores{
+  display: none;
+}
+#d1{
+  display: none;
+}
+#d2{
+  display: none;
+}
+#d3{
+  display: none;
+}
+#d4{
+  display: none;
+}
+#d5{
+  display: none;
+}
+#d6{
+  display: none;
+}
+#d7{
+  display: none;
+}
+footer{
+   background-color: black;
+   color: white;
+
+}
+.one{
+ 
+  margin-left: 70%;
+}
+.note ul {
+  margin-bottom: 200px;
+}
+a{
+  font-size: 50px;
+  margin-right: 95%;
+
+
+}
